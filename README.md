@@ -11,4 +11,6 @@ This repository contains the code used for the following paper:
 }
 ```
 
+Unless otherwise stated, all code in this repository is licensed by the respective author(s) under the GNU General Public License, version 3. See the file `COPYING` for more information.
+
 The regression code makes use of the [NLIP python package](https://github.com/jeanm/nlip).

@@ -1,3 +1,8 @@
+#!/usr/bin/env python3
+
+# Copyright (C) 2016 Jean Maillard <jean@maillard.it>
+# This software is licensed under the GNU General Public License, version 3.
+
 import time
 import logging
 from collections import defaultdict, Counter
