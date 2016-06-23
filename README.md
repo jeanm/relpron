@@ -1,5 +1,7 @@
 # RELPRON: A Relative Clause Evaluation Dataset for Compositional Distributional Semantics
 
+[![DOI](https://zenodo.org/badge/22799/jeanm/relpron.svg)](https://zenodo.org/badge/latestdoi/22799/jeanm/relpron)
+
 This directory contains code used for the article: Laura Rimell, Jean Maillard, Tamara Polajnar and Stephen Clark. 2016. *RELPRON: A Relative Clause Composition Dataset for Compositional Distributional Semantics. Computational Linguistics*. Please cite as:
 
 ```
